@@ -54,6 +54,7 @@ const ReservationSection = () => {
           alt="Reservation"
           src={src}
           fill
+          priority={true}
         />
       </div>
 
